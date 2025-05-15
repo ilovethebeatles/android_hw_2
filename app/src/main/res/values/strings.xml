@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Домашнее задание</string>
+    <string name="hint_title_txt">Введите заголовок</string>
+    <string name="description_hint_txt">Введите описание</string>
+    <string name="card_description_sample">Выделите 3 минуты на упражнения по глубокому дыханию, концентрируясь на каждом вдохе и выдохе для расслабления и ясности ума.</string>
+    <string name="sample_title">Осознанное дыхание:</string>
+    <string name="recent_task_title">Нет недавних задач</string>
+    <string name="no_recent_task_content">Нажмите кнопку \"Добавить\", чтобы перейти на страницу добавления новой задачи</string>
+    <string name="delete_btn_txt">Удалить</string>
+    <string name="cancel_btn_txt">Отмена</string>
+    <string name="delete_popup_title">Удалить заметку</string>
+    <string name="delete_popup_description">Вы хотите удалить эту заметку?</string>
+    <string name="search_txt">Поиск</string>
+    <string name="leafboard">Домашнее задание</string> <!-- Брендовое название можно оставить -->
+    <string name="splash_screen_txt">Повышайте вашу продуктивность, решая задачи одну за другой.</string>
+    <string name="onboard_txt">Достигайте большего с ToDo</string>
+    <string name="onboard_screen_para">Грамотная организация приводит к невероятной продуктивности, помогая достигать целей быстрее и проще, чем когда-либо прежде.</string>
+    <string name="onboard_txt_next">Выполняйте задачи без ограничений.</string>
+    <string name="todo_list_txt">Список задач..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Все</string>
+    <string name="title_dashboard">Завтра</string>
+    <string name="title_notifications">Настройки</string>
+</resources>
